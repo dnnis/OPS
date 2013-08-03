@@ -13,7 +13,7 @@ development:
   encoding: utf8
   database: OPS_development
   pool: 5
-  username: root
+  username: dev
   password:
   socket: /var/run/mysqld/mysqld.sock
 
